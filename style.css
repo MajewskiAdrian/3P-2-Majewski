@@ -1,7 +1,9 @@
-body {
-    background-color: gray;
-}
-
 h1 {
     font-family: 'Courier New', Courier, monospace;
+    color: #3d3d3d;
+}
+
+p {
+    color: steelblue;
+    background-color: #e2e2e2;
 }
